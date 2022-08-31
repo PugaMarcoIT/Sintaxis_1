@@ -1,0 +1,11 @@
+Primer constructor
+Archivo: prueba.cpp
+26/08/2022 9:45:46
+# | Caracter
+include | Identificador
+< | OperadorRelacional
+iostream | Identificador
+. | Caracter
+h | Identificador
+> | OperadorRelacional
+# | Caracter
